@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyoko26
+- 👋 Hi, I’m ananya
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on open source projects.
